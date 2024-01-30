@@ -8,7 +8,8 @@ git clone https://github.com/Benoit-Lorcy/bank-java-tdd
 
 Then you can build the project with gradle
 ```
-gradle build
+cd bank-java-tdd
+.\gradlew build
 ```
 
 There is no console-based staging yet 
