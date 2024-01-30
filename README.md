@@ -3,7 +3,7 @@
 ## Getting Started
 First pull the repo :
 ```
-git clone https://github.com/Benoit-Lorcy/gitbank-java-tdd
+git clone https://github.com/Benoit-Lorcy/bank-java-tdd
 ```
 
 Then you can build the project with gradle
